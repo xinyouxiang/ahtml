@@ -1,0 +1,38 @@
+/* @font-face {
+    font-family: Gazpacho;
+    src: url(/fonts/GazpachoRegular.otf);
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Gazpacho;
+    src: url(/fonts/GazpachoBold.otf);
+    font-weight: 700;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Gazpacho;
+    src: url(/fonts/GazpachoHeavy.otf);
+    font-weight: 800;
+    font-style: normal
+} */
+
+@font-face {
+    font-family: "AvenixelRegular";
+    src: url(../images/AvenixelRegular.e335bac6.eot);
+    src: url(../images/AvenixelRegular.e335bac6.eot) format("embedded-opentype"), url(../images/AvenixelRegular.5876764d.woff2) format("woff2"), url(../images/AvenixelRegular.980a651d.woff) format("woff"), url(../images/AvenixelRegular.ce288a37.ttf) format("truetype"), url(../images/AvenixelRegular.f32b6b93.svg#AvenixelRegular) format("svg");
+    font-weight: 400;
+    font-style: normal;
+    font-display: auto
+}
+
+@font-face {
+    font-family: "VCR_OSD_MONO_1_001";
+    src: url(../images/VCR_OSD_MONO_1_001.bedb6025.eot);
+    src: url(../images/VCR_OSD_MONO_1_001.bedb6025.eot) format("embedded-opentype"), url(/fonts/VCR_OSD_MONO_1_001.f368ab53.woff2) format("woff2"), url(/fonts/VCR_OSD_MONO_1_001.9902fbf3.woff) format("woff"), url(../images/VCR_OSD_MONO_1_001.ab397930.ttf) format("truetype"), url(../images/VCR_OSD_MONO_1_001.9d0e6b1d.svg#VCR_OSD_MONO_1_001) format("svg");
+    font-weight: 400;
+    font-style: normal;
+    font-display: auto
+}
