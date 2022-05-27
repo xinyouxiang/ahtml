@@ -661,8 +661,8 @@ body.dark-theme {
 
 .section-intro {
     width: 100%;
-    height: calc(100vh - 123px);
-    max-height: calc(100vh - 123px);
+    height: calc(130vh - 123px);
+    /*max-height: calc(100vh - 123px);*/
     background-image: url(../images/IntroBG@2x.4098cf3b.png);
     background-size: cover;
     background-repeat: no-repeat;
@@ -1839,7 +1839,7 @@ button:disabled {
 
 .social-links-items {
     padding: 0;
-    width: 105px;
+    width: 50px;
     height: 50px;
     display: flex;
     margin: 0 6px;
